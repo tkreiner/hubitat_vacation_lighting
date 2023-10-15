@@ -7,7 +7,7 @@ definition(
     iconUrl: "",
     iconX2Url: "",
     documentationLink: "https://github.com/tkreiner/hubitat_vacation_lighting",
-    importUrl: ""
+    importUrl: "https://raw.githubusercontent.com/tkreiner/hubitat_vacation_lighting/main/app/hubitat_vacation_lighting.groovy"
 )
 
 preferences {
