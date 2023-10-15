@@ -15,6 +15,9 @@ preferences {
         section {
             paragraph "Welcome to the Vacation Lighting app."
         }
+        section("Select a Mode") {
+            paragraph "Select the mode that will be used to activate this lighting."
+        }
     }
 }
 
